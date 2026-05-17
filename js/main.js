@@ -33,6 +33,8 @@ $(function () {
         pauseOnHover: false,
         arrows: false,
         infinite: true,
+        useTransform: false,
+        waitForAnimate: false,
     responsive: [
       {
         breakpoint: 500,
