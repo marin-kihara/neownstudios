@@ -31,6 +31,7 @@ $(function () {
         pauseOnFocus: false, 
         pauseOnHover: false,
         arrows: false,
+        infinite: true,
     responsive: [
       {
         breakpoint: 500,
